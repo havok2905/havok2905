@@ -15,4 +15,4 @@ I'm a Denver metropolitan based software engineer.
 - [Clean Architecture, Robert C Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
 - [POODR, Sandi Metz](https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
 - [Peopleware, Tom DeMarco](https://www.goodreads.com/book/show/67825.Peopleware)
-- [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
+- [The Design of Everyday Things, Don Norman](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
