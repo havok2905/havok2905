@@ -1,6 +1,6 @@
 ### Hello, I'm Chris!
 
-I'm a Denver metropolitan based software engineer. 
+I'm a Denver based software engineer. 
 
 - Node . TypeScript . React . Ruby
 - I'm currently working on writing personal tools for tabletop RPGs.
