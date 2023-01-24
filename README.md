@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Chris!
 
-<!--
-**havok2905/havok2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Denver metropolitan based software engineer. 
 
-Here are some ideas to get you started:
+- Node . TypeScript . React . Ruby
+- I'm currently working on writing personal tools for tabletop RPGs.
+- Free time: D&D, Cooking, Writing, Reading Gaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![OpenDND](https://images.squarespace-cdn.com/content/v1/63b33a04d9bf2e08b7401d31/de17989d-28a1-4737-9264-1fed1ae17f91/OpenDnD+Logo.jpg?format=300w)
+
+[#OpenDND](https://www.opendnd.games/)
+
+#### Book Shelf
+
+- [Clean Architecture, Robert C Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
+- [POODR, Sandi Metz](https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
+- [Peopleware, Tom DeMarco](https://www.goodreads.com/book/show/67825.Peopleware)
+- [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
