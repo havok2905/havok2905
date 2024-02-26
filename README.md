@@ -6,8 +6,6 @@ I'm a Denver based software engineer.
 - I'm currently working on writing personal tools for tabletop RPGs.
 - Free time: D&D, Cooking, Writing, Reading, Gaming
 
-[#OpenDND](https://www.opendnd.games/)
-
 #### Book Shelf
 
 - [Clean Architecture, Robert C Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
