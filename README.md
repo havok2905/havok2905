@@ -3,8 +3,8 @@
 I'm a Denver based software engineer. 
 
 - Node . TypeScript . React . Ruby
-- I'm currently working on writing personal tools for tabletop RPGs.
-- Free time: D&D, Cooking, Writing, Reading, Gaming
+- I'm currently working on code for TTRPG tooling, React projects, and gaming.
+- Free time: D&D, Cooking, Writing, Reading, Hiking, Gaming
 
 #### Book Shelf
 
